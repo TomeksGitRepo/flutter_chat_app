@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "predeploy": [
+      "npm --xxxx \"$RESOURCE_DIR\" run lint"
+    ]
+  }
+}

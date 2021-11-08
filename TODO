@@ -1,0 +1,17 @@
+Naprafić ładowanie odpowiedniego czatu po kliknięciu na push notfication
+Dać możliwość wyjscia z czatu użytwnikom
+Fix stuck loging
+Kick user to auth screen on logout screen click
+Add message about others users on chat writting info
+Check application startup when app starts first time after instalation
+Handle poor connection on chats screen
+Restrict database rules for production app
+Need to save thumbnail and highres photos on server.
+Made dates on chats of changing dates
+Make some badges with app old one are not null safety
+Add message sending status display to user
+Check notification limit 40k info in one message. Need to checkout users hard limit.
+Android: On click open chat with notifcaion conversation.
+Fixing dispalying of circularprogresinidcator in userthumbnail
+Fix changing screen from group_chat_admin_panel back and in again doesnt update current state from database
+Fix bug where users can send messages to users banned by them by responing from quick action in notification tray
